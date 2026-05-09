@@ -1,6 +1,6 @@
-<body style="background-color:blue">
+<body style="background-color:red">
     <h1><?php
-        echo "hello Jenkins"; 
+        echo "Hello Jenkins"; 
     ?></h1>
 </body>
 
